@@ -4,6 +4,9 @@
 
 ## 📷 Capturas del Proyecto
 
+![Captura de pantalla del proyecto](captura.jpg)
+
+
 ### Descripción del Proyecto
 
 ¡Bienvenido/a al repositorio de **[Nombre de tu Proyecto]**!
